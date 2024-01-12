@@ -22,3 +22,20 @@ Dále jsem pokračoval tím že jsem se přesunul na objekt jménem Player. Na t
 
 ![Výstřižek3](https://github.com/hartmanjan1/Projekt-/assets/156115281/f54bf0ee-1e16-46a3-a35f-0a9b851af4a5)
 
+Pak jsem ve složce Scripts založil nový C# Script díky kterému jsem se přesunul do Visual Studia a mohl začít psát první kódy. Přiznám se že jsem ze začátku nevěděl jaké kódy budou potřeba, proto jsem se znovu podíval na video a snažil se pochopit jak jednotlivé kódy fungují a k čemu jsou potřeba.
+
+Začal jsem tímto příkazem: 
+
+![Výstřižek 4](https://github.com/hartmanjan1/Projekt-/assets/156115281/002eb0df-f821-4083-9efe-e4c1ce5793c7)
+
+Který mi pomohl v tom aby se tělo hráče pohybovalo. Hráč se už sice pohyboval, ale velmi malou rychlostí takže jsem přidal další řádek příkazu který rychlost opravil. Rychlost jsem si mohl nastavit přímo v Unity v Player Movement Script - Speed kde jsem nastavil rychlost 10.
+
+![Výstřižek 5](https://github.com/hartmanjan1/Projekt-/assets/156115281/bffe292a-63fe-462c-93b8-ed154086615e)
+![Výstřižek 6](https://github.com/hartmanjan1/Projekt-/assets/156115281/fc709eee-b983-4d2f-8b74-bb23e9e425a0)
+
+Jelikož se hráč už poměrně dobře pohyboval bylo na čase přidat skok který jsem přidal jednoduchým příkazem:
+
+![Výstřižek 7](https://github.com/hartmanjan1/Projekt-/assets/156115281/0e6e8a22-b55a-4810-9840-b4a6e282b235)
+
+
+
