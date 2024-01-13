@@ -37,5 +37,10 @@ Jelikož se hráč už poměrně dobře pohyboval bylo na čase přidat skok kte
 
 ![Výstřižek 7](https://github.com/hartmanjan1/Projekt-/assets/156115281/0e6e8a22-b55a-4810-9840-b4a6e282b235)
 
+Celkový pohyb hráče je hotový a dalo by se říct že hra už by mohla fungovat, ale mým cílem je přidat animace pohybu hráče tak aby hra lépe vypadala.
+S animacemi moc zkušeností nemám takže mi tento krok zabral celkem dost času a ze začátku jsem musel pracovat s pomocí videa.
+
+
+
 
 
