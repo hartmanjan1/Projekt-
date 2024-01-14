@@ -40,6 +40,39 @@ Jelikož se hráč už poměrně dobře pohyboval bylo na čase přidat skok kte
 Celkový pohyb hráče je hotový a dalo by se říct že hra už by mohla fungovat, ale mým cílem je přidat animace pohybu hráče tak aby hra lépe vypadala.
 S animacemi moc zkušeností nemám takže mi tento krok zabral celkem dost času a ze začátku jsem musel pracovat s pomocí videa.
 
+Mezitím jsem ještě trochu upravil hitboxy jednotlivých textur tak aby hra lépe fungovala.
+
+Do složky Animations jsem vytvořil nový soubor Animator Controller a pojmenoval ho Player.
+Soubor Player jsem si přetáhl do pravého sloupce v Unity do Animator (Controller) řádku:
+
+![Výstřižek](https://github.com/hartmanjan1/Projekt-/assets/156115281/84f4b057-fc40-42eb-8342-7598f770e6a0)
+
+Pak jsem se si založil dvě nové okna Animator a Animation.
+Nejprve jsem se přesunul do okna Animation kde jsem spustil tlačítko začít nahrávat, přesunul jsem se do pravého sloupce kde jsem ze souboru Sprite Renderer vybral políčko Sprite a ze složky jsem vybral obrázek idle_O1 který jsem přemísztil do první pozice na čas O,OO dále jsem postupoval stějně akorát s obrázkem idle_O2 který jsem dal za první o půl vteřiny déle tak aby animace byla plynulá a takhle jsem pokračoval až do obrázku číslo 6.
+
+![Výstřižek 2](https://github.com/hartmanjan1/Projekt-/assets/156115281/f2cb8990-c047-4eae-b323-1899df34ea89)
+
+Následně jsem ještě trochu upravil čas animací aby to bylo co nejvíc realistické. Teď bylo na čase přidat animaci běhu kterou jsem přidal úplně stejně jako předchozí animaci s tím rozdílem že jsem místo idle_01 přidával obrázky walk_01 a tak dále.
+Teď jsem se přesunul do okna Animator kde jsem se snažil o to aby přechody animací na sebe plně navazovali nakonec jsem to udělal takto:
+
+![Výstřižek3](https://github.com/hartmanjan1/Projekt-/assets/156115281/8f57595f-3c26-4450-9649-fd53ee7e1e27)
+
+Aby to fungovalo musel jsem se na chvíli zase přesunout do Visual Studia kde jsem přidal tyto příkazy:
+
+![Výstřižek4](https://github.com/hartmanjan1/Projekt-/assets/156115281/e3b52560-d62a-4b50-bd10-e067d6e09d37)
+![Výstřižek5](https://github.com/hartmanjan1/Projekt-/assets/156115281/fb5f2f67-0f04-4276-8f25-4e8877e81894)
+
+Teď už jsem se jen pustil do finální úpravy Levelu.
+
+To by bylo asi vše, hra je zatím hotová opravdu jen z části.
+Cílem do dalšího pololetí je přidat: Animace skoku, střelbu, pohyblivou kameru která bude sledovat hráče když přejde z Levelu 1 do Levelu 2, nepřátelé a více levelů.
+
+
+
+
+
+
+
 
 
 
