@@ -67,6 +67,12 @@ Teď už jsem se jen pustil do finální úpravy Levelu.
 To by bylo asi vše, hra je zatím hotová opravdu jen z části.
 Cílem do dalšího pololetí je přidat: Animace skoku, střelbu, pohyblivou kameru která bude sledovat hráče když přejde z Levelu 1 do Levelu 2, nepřátelé a více levelů.
 
+Jak jsem již psal postupoval jsem hodně pomocí videa, ale s nějakými kódy jsem měl zkušenost takže jsem se snažil co nejvíc pracovat sám.
+
+Omlouvám se za případné chyby jak pravopisné tak i v postupu. Postup není možná úplně dopodrobna vysvětlen ale snažil jsem se toho napsat co nejvíce a myslím si že základní informace jsem napsal všechny. 
+
+Děkuji. Hartman S3E
+
 
 
 
